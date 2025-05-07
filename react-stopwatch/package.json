@@ -1,0 +1,25 @@
+{
+  "name": "react-stopwatch",
+  "version": "1.0.0",
+  "description": "A simple stopwatch application built with React and Vite.",
+  "main": "src/App.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "vite": "^3.0.0"
+  },
+  "keywords": [
+    "react",
+    "stopwatch",
+    "vite"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
